@@ -1,0 +1,3 @@
+257610,Dr Adarsh yadav,ortho,8770261283,201,1
+272005,Adarsh Yadav,ortho,8770261283,201,1
+6,6,6,6,6,1
